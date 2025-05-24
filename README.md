@@ -1,16 +1,17 @@
-## Hi there 👋
+🚀 Hi there! I'm Dharani Sura✨
+                   — A passionate developer who loves turning ideas into code.<br/>
+🔧 Obsessed with building clean, scalable, and user-friendly solutions.<br/>
+🌱 Currently diving deep into Web Development, Data analytics.<br/>
+📦 Exploring open-source, learning by building, and sharing as I go.<br/>
 
-<!--
-**DharaniSura/DharaniSura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 Tech Stack<br/>
+    HTML, CSS, JavaScript, Python, Node.js, Java<br/>
 
-Here are some ideas to get you started:
+📌 Fun Facts<br/>
+I treat code like poetry with logic.<br/>
+Coffee + Code = My happy place ☕💻<br/>
+I believe in learning out loud — you’ll see that in my commits!<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Let’s connect, collaborate, and build something great — one repo at a time.<br/>
+
+
